@@ -1,3 +1,9 @@
+# Modify Device Privilege
+```
+sudo chmod 666 /dev/videoX 
+X range(0,1,....,N)
+```
+ 
 # Dependencies
 - x264  
 ```
